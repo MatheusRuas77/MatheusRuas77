@@ -39,6 +39,17 @@
 ![SQL Workbench](https://img.shields.io/badge/-SQL%20Workbench-333333?style=flat)
 
 ---
+
+## 🏢 Empresas que já atuei
+
+<p align="left">
+  <img src="img/logo-prodemge.png" width="180"/>
+</p>
+
+### PRODEMGE  
+*Estagiário de Desenvolvimento de Software*  
+📅 08/2024 – Atual
+---
 ![](https://komarev.com/ghpvc/?username=MatheusRuas77&color=006bed)
 
 ## 📫 Onde me encontrar
