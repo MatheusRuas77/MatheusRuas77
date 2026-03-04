@@ -43,7 +43,7 @@
 ## 🏢 Empresas que já atuei
 
 <p align="left">
-  <img src="img/logo-prodemge.png" width="180"/>
+  <img src="img/prodemge.png" width="180"/>
 </p>
 
 ### PRODEMGE  
