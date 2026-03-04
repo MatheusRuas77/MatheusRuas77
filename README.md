@@ -13,7 +13,7 @@
 
 - 🎓 Estudante de **Engenharia de Software** na PUC Minas.
 - 💼 Desenvolvedor com foco em backend e aplicações web.
-- 💻 Atualmente trabalhando na PRODEMGE- 💻 Atualmente desenvolvedor na [PRODEMGE](https://www.prodemge.gov.br/) (Companhia de Tecnologia da Informação do Estado de Minas Gerais).
+- 💻 Atualmente desenvolvedor na [PRODEMGE](https://www.prodemge.gov.br/) (Companhia de Tecnologia da Informação do Estado de Minas Gerais).
 ---
 
 ## 🚀 Tecnologias que eu uso
