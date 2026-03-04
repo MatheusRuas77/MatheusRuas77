@@ -54,7 +54,9 @@
     </td>
   </tr>
 </table>
----
+
+
+<hr/>
 
 ![](https://komarev.com/ghpvc/?username=MatheusRuas77&color=006bed)
 
