@@ -1,6 +1,11 @@
 <p align="center">
   <img src="https://img.shields.io/badge/⚠️%20Conta%20Acadêmica-Esta%20é%20uma%20conta%20dedicada%20exclusivamente%20a%20projetos%20da%20faculdade-0A66C2?style=for-the-badge" />
 </p>
+<p align="center">
+  <a href="https://github.com/MatheusXavier7">
+    <img src="https://img.shields.io/badge/Conheça%20minha%20conta%20pessoal-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 # Matheus Xavier 👨‍💻  
 
