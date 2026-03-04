@@ -42,19 +42,20 @@
 
 ## 🏢 Empresas que já atuei
 
-<table>
-  <tr>
-    <td width="120" align="center">
-      <img src="img/prodemge.png" width="90"/>
-    </td>
-    <td>
-      <strong>PRODEMGE</strong><br/>
-      Estagiário de Desenvolvimento de Software<br/>
-      📅 08/2024 – Atual
-    </td>
-  </tr>
-</table>
-
+<a href="https://www.prodemge.gov.br/" target="_blank">
+  <table>
+    <tr>
+      <td width="120" align="center">
+        <img src="img/prodemge.png" width="90"/>
+      </td>
+      <td>
+        <strong>PRODEMGE</strong><br/>
+        Estagiário de Desenvolvimento de Software<br/>
+        📅 08/2024 – Atual
+      </td>
+    </tr>
+  </table>
+</a>
 
 <hr/>
 
