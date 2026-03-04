@@ -42,13 +42,18 @@
 
 ## 🏢 Empresas que já atuei
 
-<p align="left">
-  <img src="img/prodemge.png" width="180"/>
-</p>
-
-### PRODEMGE  
-*Estagiário de Desenvolvimento de Software*  
-📅 08/2024 – Atual
+<table>
+  <tr>
+    <td width="120" align="center">
+      <img src="img/logo-prodemge.png" width="90"/>
+    </td>
+    <td>
+      <strong>PRODEMGE</strong><br/>
+      Estagiário de Desenvolvimento de Software<br/>
+      📅 08/2024 – Atual
+    </td>
+  </tr>
+</table>
 ---
 ![](https://komarev.com/ghpvc/?username=MatheusRuas77&color=006bed)
 
