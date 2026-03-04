@@ -45,7 +45,7 @@
 <table>
   <tr>
     <td width="120" align="center">
-      <img src="img/logo-prodemge.png" width="90"/>
+      <img src="img/prodemge.png" width="90"/>
     </td>
     <td>
       <strong>PRODEMGE</strong><br/>
