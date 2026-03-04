@@ -2,13 +2,11 @@
   <img src="https://img.shields.io/badge/⚠️%20Conta%20Acadêmica-Esta%20é%20uma%20conta%20dedicada%20exclusivamente%20a%20projetos%20da%20faculdade-0A66C2?style=for-the-badge" />
 </p>
 
-![](https://komarev.com/ghpvc/?username=MatheusRuas77&color=006bed)
-
 # Matheus Xavier 👨‍💻  
 
 ## 👋 Olá!
 
-, sou o **Matheus**, tenho 21 anos, moro em **Belo Horizonte - MG** e curso **Engenharia de Software** na  
+ sou o **Matheus**, tenho 21 anos, moro em **Belo Horizonte - MG** e curso **Engenharia de Software** na  
 [PUC Minas](https://www.pucminas.br/).
 
 ## Sobre mim
@@ -38,6 +36,7 @@
 ![SQL Workbench](https://img.shields.io/badge/-SQL%20Workbench-333333?style=flat)
 
 ---
+![](https://komarev.com/ghpvc/?username=MatheusRuas77&color=006bed)
 
 ## 📫 Onde me encontrar
 
